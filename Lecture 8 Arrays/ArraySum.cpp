@@ -1,0 +1,58 @@
+/*
+Array Sum
+
+Given an array of length N, you need to find and print the sum of all elements of the array.
+
+Input Format :
+	Line 1 : An Integer N i.e. size of array
+	Line 2 : N integers which are elements of the array, separated by spaces
+
+Output Format :
+	Sum
+
+Constraints :
+	1 <= N <= 10^6
+
+Sample Input :
+	3
+	9 8 9
+Sample Output :
+	26
+*/
+
+#include<iostream>
+#include <cmath>
+using namespace std;
+typedef long long int lli;
+
+int main()
+{
+
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+
+#ifndef ONLINE_JUDGE
+	//for getting input from input.txt
+	freopen("input.txt", "r", stdin);
+	//for writing output to output.txt
+	freopen("output.txt", "w", stdout);
+#endif
+
+	int N;
+	cin >> N;
+
+	int arr[100000], sum = 0;
+	for (int i = 0; i < N; i++)
+	{
+		cin >> arr[i];
+		sum += arr[i];
+	}
+
+	cout << sum;
+
+}
+
+
+
+
+
