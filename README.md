@@ -1,7 +1,4 @@
 # Coding-Ninjas-Basics-of-CPP
-**C++ programs are directly compiled into machine-executable codes which consumes less time to execute the code. 
-Hence, it is widely used in competitive programming where you are expected to optimise time and memory. 
-So, if you are interested to explore competitive programming then it is good to start with C++ language.**
 
  ## Part 1 **Score:** *(7520/7560)* 
  
