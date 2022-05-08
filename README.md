@@ -40,3 +40,27 @@
  **Videos: 4** *(45 mins)*;
  **Problems:** *(11)*;
  **Score:** *(680/680)*;
+ 
+  ## Part 2 **Score:** *(9550/9550)*
+  
+ * ### Lecture 8: Arrays
+ **Videos: 4** *(81 mins)*;
+ **Problems:** *(17)*;
+ **Score:** *(2950/2950)*;
+ 
+ * ### Lecture 9: Searching and Sorting
+ **Videos: 8** *(117 mins)*;
+ **Problems:** *(10)*;
+ **Score:** *(1200/1200)*;
+ 
+ * ### Lecture 10: Character Arrays and 2D Arrays
+ **Videos: 5** *(106 mins)*;
+ **Problems:** *(15)*;
+ **Score:** *(4600/4600)*;
+ 
+ * ### Test 2
+ **Time** *(120 mins)*;
+ **Problems:** *(3)*;
+ **Score:** *(800/800)*;
+ 
+ # Total Score Across All Module: 17070/17110 (99.8%)
